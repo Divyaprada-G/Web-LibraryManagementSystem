@@ -1,0 +1,176 @@
+#plant{
+    background:url("https://images.shiksha.com/mediadata/images/1545372646phpC2x4jx.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+#head2{
+    color:yellow;
+    text-align: left;
+    margin-right: 380px;
+    font-size:50px;
+    font-style:italic;
+
+}
+
+.head nav{
+    text-align: center;
+    font-size:60px;
+    margin-top:none;
+    background-color:rgb(75, 72, 72);
+    background-size:50px;
+    border-radius: 10px;
+}
+.head nav ul li{
+   color:rgb(255, 251, 0);
+   text-decoration: none;
+   display:inline-block;
+   align-items: center;
+   font-size: 25px;
+   margin-bottom:20px;
+   text-indent:30px;
+}
+.head nav ul li:active{
+     color:rgb(31, 14, 221);
+}
+p{
+    text-align:center;
+    color:white;
+    font-size:50px;
+    text-indent:40px;
+}
+h1{
+     margin-left: 90px;
+     color:rgb(67, 247, 12);
+     font-size: 20px;
+     
+
+
+}
+
+.head3{
+    border:5px solid white;
+    margin:0 630px;
+    background: url("https://wallpaperaccess.com/full/1483382.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    margin-top: 230px;
+    border-top: 30px;
+    
+}
+#add{
+    
+    padding-left:35px;
+    font-size: 17px;
+    margin-bottom: 90px;
+    color: yellow;
+}
+#div{
+    
+    padding-left:35px;
+    font-size: 17px;
+    margin-top: 5px;
+    color: yellow;
+}
+
+/*form*/
+.login{
+    border: 3px solid rgb(133, 131, 131);
+    margin-top: 150px;
+    text-align: center;
+    margin-left: 510px;
+    margin-right: 560px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    background-color: rgba(238, 238, 238, 0.3);
+    backdrop-filter: blur(30px);
+    border-radius: 40px;
+}
+.login label {
+    color: rgb(238, 255, 0);
+    font-size: 20px;
+}
+.login h3{
+    color: rgb(244, 252, 6);
+    font-size: 32px;
+}
+input[type]{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+button{
+    width: 220px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: rgb(221, 245, 4);
+}
+button:hover{
+    background-color: rgb(105, 254, 11);
+}
+button:active{
+    color: rgb(21, 0, 255);
+}
+a:active{
+     color: blue;
+}
+
+
+
+/* page no-4 registerpage CSS code */
+
+#god{
+    background:url("https://i.pinimg.com/originals/67/18/22/671822c2f63dd5f65d8fd15c9710420b.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+#abc{
+    color: rgb(7, 241, 214);
+    font-size: 30px;
+    text-align: center;
+    margin-right: 80px;
+    
+}
+
+.shiva{
+    border: 1px solid rgb(240, 238, 238);
+    border-radius: 0px 40px 0px 40px;
+    margin:0 500px;
+    background:url("https://res.allmacwallpaper.com/get/imac-wallpapers/abstract-simple-colors-8k/22255-720.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+.shiva input[type=text], input[type=email],input[type=password]{
+    padding-left: 10px;
+    margin-top: 15px;
+    
+}
+.shiva lable{
+    padding-left: 80px;
+    font-size: 20px;
+    color:yellow;
+    font-weight: lighter;
+}
+
+.shiva input[type=button]{
+    margin-left: 20px;
+    font-size:23px;
+    background-color: rgb(217, 177, 17);
+    color:blue;
+    border-radius: 5px;
+}
+
+.shiva input[type=button]:active{
+    background-color:green;
+}
+
+.bag{
+    margin-left: 200px;
+}
+
+
